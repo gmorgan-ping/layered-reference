@@ -1,9 +1,9 @@
 # layered-reference
 
-In this example, we'll layer another profile onto the getting-started/pingfederate profile so that
-we can manage the PingFederate license from within a profile.
+In this example, we'll layer another profile onto the **getting-started/pingfederate** profile so that
+we can manage the PingFederate license from within a separate profile.
 
-View the deploy/values.yaml file to see how multiple profiles can be specified. See Ping's DevOps [Documentation](https://devops.pingidentity.com/how-to/profilesLayered/) for additional information.
+View the [deply/values.yaml](deploy/values.yaml) file to see how multiple profiles can be specified. See Ping's DevOps [Documentation](https://devops.pingidentity.com/how-to/profilesLayered/) for additional information.
 
 To deploy this example using helm
 
