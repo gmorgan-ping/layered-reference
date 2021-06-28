@@ -1,0 +1,14 @@
+ID=00215137
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=10.3
+EnforcementType=3
+Tier=Free
+IssueDate=2021-06-28
+ExpirationDate=2021-07-28
+DeploymentMethod=Docker
+Organization=gmail.com
+SignCode=FF0F
+Signature=302D021426AF13D58C1DDF221CD91DB1255782EFA8969F060215008B50F38285075D2DF6DA1EF8850FD21671EBECDC
